@@ -8,6 +8,17 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__assets_small_jpg___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__assets_small_jpg__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__styles_image_viewer_css__ = __webpack_require__(3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__styles_image_viewer_css___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__styles_image_viewer_css__);
+// import big from '../assets/big.jpg';
+// import small from '../assets/small.jpg';
+// import '../styles/image_viewer.css';
+// const image = document.createElement('img');
+// image.src = small;
+// document.body.appendChild(image);
+// const bigimage = document.createElement('img');
+// bigimage.src = big;
+// document.body.appendChild(bigimage);
+// Section 4
+// ---------
 
 
 /* harmony default export */ __webpack_exports__["default"] = (function () {
